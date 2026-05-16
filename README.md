@@ -19,7 +19,7 @@ A first native iOS prototype for a private couples app where you can save update
 
 ## Open in Xcode
 
-1. Open `/home/runner/work/-message/-message/MessageForTwo.xcodeproj` in Xcode.
+1. Open `MessageForTwo.xcodeproj` in Xcode.
 2. In the target settings, set your own signing team.
 3. If you want a unique bundle id, change `com.raymaruize.MessageForTwo`.
 4. Pick your iPhone or simulator and run.
